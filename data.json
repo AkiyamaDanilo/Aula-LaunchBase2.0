@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Danilo",
+      "avatar_url": "https://www.google.com",
+      "birth": 611625600000,
+      "gender": "F",
+      "services": "Musculação",
+      "created_at": 1637425312045
+    },
+    {
+      "id": 2,
+      "name": "franciele",
+      "avatar_url": "https://www.google.com",
+      "birth": 611625600000,
+      "gender": "F",
+      "services": "Musculação",
+      "created_at": 1637425338678
+    }
+  ]
+}
